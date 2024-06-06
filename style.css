@@ -1,0 +1,42 @@
+@charset "utf-8";
+
+body {
+    background-color: rgb(247, 250, 46);
+    font-family: monospace;
+    text-align: justify;
+}
+
+header {
+    text-align: center;
+    font-size: 30px;
+}
+
+section{
+    background-color: rgb(196, 224, 248);
+    padding: 15px;
+    width: 500px;
+    margin: auto;
+    border-radius: 10px;
+    box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.164);
+    font-size: 20px;
+}
+/* p {
+    color:rgb(0, 4, 24);
+} */
+
+footer {
+    text-align: center;
+    font-style: oblique;
+}
+div {
+    text-align: center;
+    padding: 10px;
+
+}
+
+#image {
+    width: 400px;
+    height: auto;
+    
+}
+
